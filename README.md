@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a beginner developer.
+I work with Python and Go programming languages and helping open source projects.
 
-I love Python and Go programming languages and helping open source projects.
-
-Also, I love monitoring 🔭 and often write checks for [Icingа2](https://github.com/Icinga/icinga2)  
+Also, I love monitoring 🔭 and often write check plugins for [Icingа2](https://github.com/Icinga/icinga2)  
 I love this monitoring system and thoroughly studied its capabilities.  
 💬 So I can answer almost any questions that relate to its configuration.  
 
