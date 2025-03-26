@@ -1,24 +1,9 @@
 ### Hi there 👋
 
-<!--
-**nikita-popov/nikita-popov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer network enthusiast. Programming in C and Lisp. Diving into Hare and AVR.
 
-Here are some ideas to get you started:
+I love technology and I think it’s mutual. Strive for simplicity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I work with Python and Go programming languages and helping open source projects.
-
-Also, I love monitoring 🔭 and often write check plugins for [Icingа2](https://github.com/Icinga/icinga2)  
-I love this monitoring system and thoroughly studied its capabilities.  
-💬 So I can answer almost any questions that relate to its configuration.  
+I don’t write very often, but I write sincerely and when I have something to say.
 
 Thanks
